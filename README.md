@@ -68,7 +68,7 @@ The dashboard comprises six pages
 
 #### Home Page: A landing page with buttons to navigate to different pages.
 
-(![Home View](https://github.com/user-attachments/assets/f7a4e245-625f-46db-9674-8468fc873d6c)
+![Home View](https://github.com/user-attachments/assets/f7a4e245-625f-46db-9674-8468fc873d6c)
 
 #### Finance Page Overview: This page is designed to enhance financial planning, optimize budgeting processes, and implement effective cost control measures. Key insights provided include:
 
