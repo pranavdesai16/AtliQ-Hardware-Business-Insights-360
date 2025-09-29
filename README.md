@@ -1,7 +1,5 @@
 # AtliQ-Hardware-Business-Insights-360
 
-Video Presentation Link: [Link]()
-
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
