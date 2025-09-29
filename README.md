@@ -60,7 +60,7 @@ The third step—Data Modeling—is indispensable if you want to reach the final
 
 In this project, we adopted the Snowflake schema for data modeling, ensuring a scalable and optimized foundation for building meaningful visualizations and reports.
 
-![Data Modelling image](![DM1](https://github.com/user-attachments/assets/f1c27267-a50a-4380-b361-afd35e16d045)
+![Data Modelling image](https://github.com/user-attachments/assets/f1c27267-a50a-4380-b361-afd35e16d045)
 
 ## Power BI Dashboard Overview
 
