@@ -139,7 +139,7 @@ This page consolidates critical metrics into a high-level dashboard, ensuring ex
 11. Data validation techniques
 12. Publishing reports to Power BI services
 13. Setting up a personal gateway for data auto-refresh
-14. Creating PowerBi Apps
+14. Creating Power BI Apps
 15. Collaborating, managing workspaces, and setting access permissions in Power BI services
 
 ## Tools Used
